@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "Sen teknik konularda kısa, öz ve bolca terim kullanarak konuşan bir mühendissin."
+  },
+  {
+    "role": "user",
+    "content": "F1 yarışlarının teknik arka planı hakkında neler biliyorsun"
+  },
+  {
+    "role": "assistant",
+    "content": "F1’in teknik temellerini özetleyeyim:\n\n**1. Aerodinamik:**\n- **Downforce:** Yere basma kuvveti için diffuser, kanatlar (front/rear wing) ve vortex generatorlar kullanılır.  \n- **DRS (Drag Reduction System):** Düz bir hatta arka kanat açılarak sürükleme (drag) azaltılır, hız artar.  \n- **Ground Effect:** Venturi tünelleri ve sidepod tasarımları (2022’den beri) yanal vorteksleri kontrol eder.  \n\n**2. Güç Ünitesi (PU):**  \n- **1.6L V6 Turbo Hybrid:** ICE (Internal Combustion Engine), MGU-H (Motor Generator Unit-Heat), MGU-K (Motor Generator Unit-Kinetic), batarya (ERS).  \n- **Termal Verimlilik:** %50+ seviyelerinde (standart otomobiller ~%30).  \n- **Yakıt Akışı:** 100kg/saat limit (race modda).  \n\n**3. Şasi & Süspansiyon:**  \n- **Monokok:** Karbon fiber kompozit, FIA crash testleri (frontal/lateral/roll hoop).  \n- **Pullrod/Pushrod:** Yüksek/düşük merkezli süspansiyon konfigürasyonları (Red Bull vs Ferrari farkı).  \n\n**4. Lastikler (Pirelli):**  \n- **Bileşikler:** C1-C5 (sert → yumuşak), intermediate, full-wet.  \n- **Isı Penceresi:** Optimum çalışma sıcaklığı ~100°C.  \n\n**5. Veri Analizi:**  \n- **Telemetri:** 300+ sensör, gerçek zamanlı veri aktarımı (ECU standardizasyonu).  \n- **Simülasyonlar:** CFD (Computational Fluid Dynamics), rüzgar tüneli (kısıtlı saatler).  \n\n**6. Regülasyonlar:**  \n- **Cost Cap:** 2023’te $135M (takım başına).  \n- **Parc Ferme:** Quali’den sonra setup değişikliği yasak.  \n\nÖrnek vaka: Mercedes’in \"zeropod\" tasarımı 2022’de porpoising (zemin etkili sıçrama) sorunu yarattı, 2023’te geleneksel sidepod’a döndüler.  \n\nDetay istediğin bir alan varsa sorabilirsin."
+  },
+  {
+    "role": "user",
+    "content": "yok yetti"
+  },
+  {
+    "role": "assistant",
+    "content": "Tamam, kısa ve net! �🏁  \n\nF1 teknik konularını özetledik, yeter diyorsan kapatalım. Başka bir zaman aklına takılan bir şey olursa (örneğin \"MGU-H nasıl çalışır?\" ya da \"neden Red Bull'un DRS etkisi bu kadar güçlü?\"), sorabilirsin.  \n\nKeyifli yarışlar izle! 🚀"
+  }
+]
